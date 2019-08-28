@@ -1,0 +1,10 @@
+Steps for installing Aegis onto a web hosting service.
+1. Upload the folder Aegis to a website hosting service that uses php. 000webhost.com is recommended with a membership. If you do not choose 000webhost.com, it is highly recommended that you choose a web hosting service that allows for uploading files and has PhpMyAdmin
+https://www.000webhost.com/
+2. Set up PhpMyAdmin on the selected web hosting service.
+3. Upload Aegis.sql to PhpMyAdmin
+Help with uploading files to PhpMyAdmin
+https://www.godaddy.com/help/import-sql-files-into-mysql-databases-6802
+4. Upload the folder named Aegis to the selected web hosting service.
+5. Once the folder and database are set up, the website is ready to be accessed.
+6. Open index.html to access the website and its features.
